@@ -1,0 +1,4 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+NVDA,NVIDIA Corp,Equity,United States,09:30,16:00,UTC-04,USD,1.0
+NVDAX,Wells Fargo Diversified Eqs Fd USD Class A,Mutual Fund,United States,09:30,16:00,UTC-04,USD,0.8889
+NVDA.TRT,Nvidia CDR (CAD Hedged),Equity,Toronto,09:30,16:00,UTC-05,CAD,0.7273
